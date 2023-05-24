@@ -1,0 +1,20 @@
+@media only screen and (max-width: 600px){
+    nav{
+        height: 60px;
+    }
+    .nav-title{
+        font-size: 20px;
+    }
+    .fa-arrow-left{
+        font-size: 18px;
+        margin-left: 25px;
+    }
+    .fa-cart-shopping{
+        font-size: 18px;
+        margin-right: 25px;
+    }
+    .fa-circle-user{
+        font-size: 18px;
+        margin-right: 10px;
+    }
+}
