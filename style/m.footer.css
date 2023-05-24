@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px){
+    .footer{
+        width: 125px; 
+        height: 45px;
+        /* border: 1px solid #000; */
+    }
+    .foot-subt{
+        font-size: 13px;
+
+    }
+    .foot-title{
+        font-size: 35px;
+    }
+}
